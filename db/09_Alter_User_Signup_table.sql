@@ -1,0 +1,1 @@
+ALTER TABLE `UserSignup` ADD COLUMN exam VARCHAR(255) ;

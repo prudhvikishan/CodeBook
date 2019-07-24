@@ -1,0 +1,4 @@
+
+
+ALTER TABLE `UserSignup` ADD COLUMN `phone` VARCHAR(13);
+ALTER TABLE `Users` ADD COLUMN `phone` VARCHAR(13);

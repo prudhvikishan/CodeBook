@@ -1,0 +1,1 @@
+Alter table Courses add column course_order int(4);

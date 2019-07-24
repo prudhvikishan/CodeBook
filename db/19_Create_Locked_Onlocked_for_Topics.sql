@@ -1,0 +1,6 @@
+
+ALTER TABLE `Topics` ADD COLUMN `locked` INT(1) DEFAULT 0;
+ALTER TABLE `Topics` ADD COLUMN `premium` INT(1) DEFAULT 0;
+
+ALTER TABLE `Content` ADD COLUMN `locked` INT(1) DEFAULT 0;
+ALTER TABLE `Content` ADD COLUMN `premium` INT(1) DEFAULT 0;

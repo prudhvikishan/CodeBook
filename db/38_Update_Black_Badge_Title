@@ -1,0 +1,1 @@
+UPDATE Badges set badge_name="No" where badge_id=5

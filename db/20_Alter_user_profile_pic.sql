@@ -1,0 +1,1 @@
+ALTER TABLE `Users` ADD COLUMN `profile_pic` VARCHAR(50);

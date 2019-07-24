@@ -1,0 +1,9 @@
+CREATE TABLE UserSignup (
+	user_signup_id INTEGER PRIMARY KEY AUTO_INCREMENT,
+	first_name VARCHAR(255),
+	last_name VARCHAR(255),
+	email VARCHAR(255),
+	school VARCHAR(255),
+	city VARCHAR(255),
+	created TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
