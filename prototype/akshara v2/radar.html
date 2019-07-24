@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <link rel="logo" type="image/png" href="demo.png" />
+      <title>Demo Radar chart D3</title>
+      <style>
+      body{font-family: sans-serif}
+      </style>
+</head>
+<body>
+ <div style='width:100%;display:block;'>
+  <div id="chart" style='float:left'></div>
+  <div id="chart2" style='float:left'></div>
+ </div>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="js/radar_chart.min.js"></script>
+<script>
+var d = [
+          [
+           {axis: "Math", value: Math.random() * 10}, 
+           {axis: "Physics", value: Math.random() * 10}, 
+           {axis: "Chemistry", value: Math.random() * 10}
+          ]
+        ];
+RadarChart.draw("#chart", d);
+
+var d = [
+          [
+            {axis:"Algebra", value: Math.random() * 10},
+            {axis:"Trigonometry", value: Math.random() * 10},
+            {axis:"Vector Algebra", value: Math.random() * 10},
+            {axis:"Probability", value: Math.random() * 10},
+            {axis:"Coorindate Geometry", value: Math.random() * 10},
+            {axis:"Calculus", value: Math.random() * 10}
+          ]
+        ];
+RadarChart.draw("#chart2", d);
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,293 @@
+{
+  "syllabus": {
+    "subjects": {
+      "subject": {
+        "name": "Physics",
+        "topics": {
+          "topic": [
+            {
+              "name": "Measurements, Units and Dimensions",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- units and Dimensions, Accuracy, precision of measuring instruments, Constant errors, systematic errors, environmental errors (errors due to external causes). Error due to imperfection, Random errors, Gross Errors, Absolute Errors, Mean absolute errors, Relative errors, percentage errors, Errors due to addition, subtraction, multiplication, division, powers of observed quantities, Significant figures, Fundamental and derived physical quantities / System of Units, definition of units in SI, Rules for writing units in SI, Derived units in SI, Multiple and submultiples of SI units, Dimensional formulae and dimensional equations, dimensional constants and dimensionless quantities. Principle of homogeneity of dimensions, Conversion of one system of units into another, to check correctness of an equation, to derive the relationship between different physical quantities."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Elements of Vectors",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Classification of Physical quantities, geometrical representation of vectors, addition of vectors, equality of vectors, Laws of vector addition, subtraction of vectors, Resolution of a vector into components, null vector, unit vector in Cartesian co-ordinate system, position vector and its magnitude, Parallelogram law of addition of vectors, Derivation of expression for the magnitude and the direction of resultant vector, Special cases, Triangle law and polygon law of vectors, triangle law of addition of vectors, polygon law of addition of vectors, concept of relative velocity, application to relative motion of a boat in a river, motion of a boat across a river, shortest path, shortest time, Multiplication of vector with a scalar, product of two vectors, scalar product or dot product of two vectors, properties of scalar product, examples of scalar product, work done and energy, vector product of two vectors, properties of vector product of two vectors, examples of vector product of two vectors - torque, angur velocity and angular momentum"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Kinematics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction : Motion in a straight line – displacement, speed and velocity, Uniform and non-uniform motion, average speed and instantaneous velocity, Uniformly accelerated motion, velocity-time and position-time graphs, equations for uniformly accelerated motion (graphical treatment), acceleration due to gravity, equations of motion of a freely falling body, Equations of motion of an object vertically projected upwards from the ground, Maximum height (H), Time of ascent, time of descent, velocity of the body on returning to the point of projection, Vertical projection of an object from a tower, Projectiles – oblique projection from ground, equation of trajectory, maximum height, time of ascent, time of flight, horizontal range, two angles of projection for the same range, velocity of projection at any instant, horizontal projection from the top of a tower, equation of trajectory, time of descent, range, velocity of the projectile (at a ny instant)."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Dynamics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- Newton’s laws of motion, applications of Newton’s laws. Objects suspended by strings, At wood machine, blocks placed in contact with each other on frictionless horizontal surface, apparent weight in a lift, Impulse, law of conservation of linear momentum, conservation of linear momentum during collision, work, power, energy, KE&PE definition and derivation for both, Relation between KE and Linear momentum, conservative and non-conservative forces, work-energy theorem, Law of conservation of energy in case of freely falling body and vertically projected body."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Collisions",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction – Elastic and inelastic collisions, Collisions in one dimension (Elastic collision only), body at rest, bodies moving in same direction and opposite directions, Co-efficient of restitution, definition, equation for height attained for freely falling body after number of rebounds on floor."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Centre of Mass",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- Centre of mass, difference between centre of mass and centre of gravity, co-ordinates of centre of mass, centre of mass of particles along a line, centre of mass of system of particles in a plane, center of mass of system of particles in space, motion of centre of mass (Velocity and acceleration of CM), characte ristics of centre of mass, laws of motion of the centre of mass, velocity and acceleration, explosion."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Friction",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction - cause of friction, advantages of friction, disadvantages of friction, methods of reducing friction, types of friction, static friction, kinetic (or) dynamic friction, rolling friction, Distinction between static and dynamic friction. Normal reaction, laws of friction, static friction, kinetic friction or Dynamic friction, Rolling friction, Angle of friction, motion of body on rough horizontal plane, motion of bodies on an inclined plane, Body at rest on the plane-Angle of repose-when the body is just ready to slide, when the body is sliding down. Motion of a body on smooth and rough inclined plane, body sliding down the plane, body sliding up the plane, pushing and pulling of a lawn roller. A lawn roller on a horizontal surface pulled by an inclined force, a roller on horizontal surface pushed by an inclined force."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Rotatory Motion",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction, uniform circular motion, concept of angular displacement, angular velocity and angular acceleration, relation between linear velocity and angular velocity, centripetal acceleration and force, torque, couple (concepts, units, dimensional formula and examples), Vector representation of torque, Moment of Inertia(MI), definition, units, parallel and perpendicular axes theorems. Expressions for MI of a thin rod, uniform disc, rectangular lamina, solid and hollow spheres, circular ring and cylinder (no derivations needed), angular momentum, relation between angular momentum and torque, law of conservation of angular momentum with examples, Motion in vertical circle."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Gravitation",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- Basic forces in nature, Nature of gravity, law of universal gravitation, Relation between Universal gravitational constant (G) and acceleration due to gravity (g), variation of ‘g’ with altitude, depth, latitude and shape of the earth, characteristics of gravitational force, limitations of Newton’s third law, gravitational field, field strength, properties of gravitational fields, Origin of black holes, Chandrashekar limit, neutron star, Frames of reference, Inertial and Non- Inertial frames, Inertial and Gravitational mass & relation between them, Principle of equivalence, Escape and Orbital velocities, definition, derivation of expressions and relation between them, Geostationary satellites and their uses."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Simple Harmonic Motion (SHM)",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- simple harmonic motion examples, SHM explanation by reference circle, expression for displacement, amplitude, velocity, acceleration, time period, frequency, phase, initial phase (epoch)- Simple pendulum, expression for time period, loaded spring, expression for time period, force constant, PE and KE of simple harmonic oscillator, Total Energy of Simple Harmonic Oscillator, Law of conservation of energy in the case of a simple pen dulum."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Elasticity",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- Elasticity and plasticity, stress, strain, Hook’s law, Moduli of elasticity, Poisson’s ratio, definition and its limit, Behavior of a wire under gradually increasing load- Elastic fatigue, strain energy - experimental determination of Young’s modulus of wire."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Surface Tention",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction - surface tension, definition - Examples, molecular theory of surface tension. Surface energy, Angle of contact, capillarity-examples in daily life, Determination of surface tension by capillary rise method – theory and experiment. Effect of temperature on surface tension, excess pressure in liquid drops and soap bubbles."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Fluid Mechanics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction - Principle of Buoyancy- pressure in a fluid - Streamline flow – Bernoulli’s theorem - equation with derivation – applications-aerodynamic lift, motion of a spinning ball, Illustrations of Bernoulli’s theorem. Viscosity – explanation, coefficient of viscosity, effect of temperature on viscosity, Poiseuille’s equation, Motion of objects through fluids. Stokes formula, net force on the object, terminal velocity."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Temperature and Thermal Expansion of Materials",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- concept of temperature, Measurement of temperature, Fahrenheit, Centigrade scales of temperature, their relation (only formulae)- Different types of thermometers (brief theoretical description). Expansion of solids: Introduction -Vibration of atoms in a solid, PE curve, Anharmonicity of vibrations, explanation for expansion in solids. Coefficients of linear, areal and cubical expansion, definitions, Expressions & Relation between these coefficients of expansions, change of density with temperature, examples in daily life. Expansion of Liquids: Introduction- coefficients of real and apparent expansion of liquids, relation between them with derivation, Determination of coefficient of apparent expansion of liquids by specific gravity bottle method, Anomalous expansion of water, its significance in nature. Expansion of gases: Introduction - volume and pressure coefficients of gases, relation between them and derivation. Determination of volume coefficient-Regnault’s method. Determination of pressurecoefficient-Jolly’s bulb method. Kelvin scale of temperature, Boyle’s and Charle’s laws. Ideal gas equation, derivation, significance of Universal gas constant."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Thermodynamics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction – Quasi static and cyclic process, reversible and irreversible processes, Heat and Temperature, Zeroeth law of Thermodynamics, definition of Calorie, Joule’s law and mechanical equivalent of heat, Internal energy, First law of thermodynamics, equation and explanation. Heat capacity, specific heat, experimental determination of specific heat by the method of mixtures. Specific heats of a gas (Cp and Cv),External work done by a gas during its expansion. Relation between Cp and Cv derivation, Isothermal and adiabatic processes. Re lation between P, V and T in these processes. Expression for work done in Isothermal process (no derivation), expression of work done in adiabatic process (no derivation). Heat engines and refrigerators (only qualitative treatment). Three phases of matter, Triple point – Triple point of water. Latent heat, Determination of latent heat of vaporization of water, Second law of thermodynamics – different statements."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Transimission of Heat",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction - conduction of heat, coefficient of thermal conductivity, convection- Type of convections, Nature and properties of Thermal radiation, Prevost’s theory of heat exchange - emission power and absorptive power - Black body radiation, Kirchoff’s law and its applications – Stefan’s law – Newton’s law of cooling."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Wave Motion",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Longitudinal and transverse waves, Equation for a progressive wave, principle of superposition of waves, reflection of waves, of waves on a stretched string, laws of vibrating strings, experimental verification by Sonometer, Sound: Characteristics of sound, speed of sound in solids, liquids and gases (only formula to be given), Forced Vibrations, Free Vibrations, Resonance with examples, standing waves in Organ Pipes, Open Pipes, Closed Pipes, Fundamental frequency-Overtones, Harmonics, definition and explanation, Beats definition and its importance. Doppler Effect, Definition, derivation of relation for apparent frequency of a sound note emitted by a source for the cases a) only source is moving, b) only listener is moving, c) both source and listener are moving. Applications and limitations of Do ppler Effect- Echoes, Absorption of sound waves, Reverberation – Reverberation Time, Fundamentals ofbuilding Acoustics – Statement of Sabine’s Law."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Optics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Nature of Light, Newton’s corpuscular Theory, Huygen’s Wave Theory- Electromagnetic spectrum. Huygen’s Explanation of Reflection and Refraction of plane waves at a plane surface. Refraction through prism, Derivation of Refractive index of material of prism for minimum deviation, critical angle, Total Internal Reflection, Relation between Critical angle and Refractive Index, appli cation of total internal reflection to Optical fibers. Defects in Images: Spherical and Chromatic aberrations and reducing these defects, Different methods (qualitative treatment). Optical Instruments: Microscope, Telescope, Formula for magnification of Microscope, Astronomical and Terrestrial Telescopes. Construction of Ramsden’s and Huygen’s eye pieces with ray diagrams. Dispersion of light, dispersive power, pure and impure spectra, condition for obtaining pure spectrum, different kinds of spectra– Emission spectra, Line, Band and continuous spectra, absorption spectra, Fraunhofer lines and their significance."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Physical Optics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Interference – condition for interference, Young’s double slit experiment – Derivation for Intensity and fringe width – Uses of interference, Diffraction: Fresnel and Fraunhofer diffraction (Qualitative only). Polarisation: Concepts of Polarisation. Plane Polarisation of Light by Reflection, Refraction and Double Refraction (Polaroids)."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Magnetism",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Coulomb’s Inverse Square Law, Definition of Magnetic Field, Magnetic Lines of Force- Uniform and Non – Uniform Magnetic Fields. Couple acting on a bar magnet placed in a uniform magnetic field, Definition of magnetic moment of magnet. Magnetic Induction due to a bar magnet on axial and equatorial lines. Superposition of magnetic fields, Tangent Law, Deflection Magnetometer. Comparison of Magnetic Moments in Tan A, Tan B positions by equal distance method and Null Method, Verification of Inverse Square Law. Vibration Magnetometer- Principle and Description, Experimental determination of M and BH (earth’s horizontal component) using Vibration Magnetometer. Types of magnetic materials – Para, Dia, and Ferro Magnetism – Definition and properties."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Electostatics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Charges – conservation of charge and additive property of charges. Coulomb’s Law : Permittivity of Free Space and Permittivity of Medium, Force between two point charges. Force due to multiple charges – Principle of superposition with examples. Electric field, Electric lines of force, their properties, Electric field intensity definition, electric intensity due to isolated charge and due to multiple charges. El ectrostatic Potential, Definition of Electrostatic Potential in an electric field- Potential due to single charge and multiple charges, Electrostatic potential energy-Relation between electrostatic potential and electric intensity. Electric Flux & Gauss Law: Electric Flux Definition, Gauss Law-Statement of Gauss Law, Application of Gauss Law to find electric intensity and electrostatic Potential due to continuous charge distribution of Infinite Long wire, Infinite Plane Sheet and Spherical Shell. Capacitance, Definition of Electrical Capacity of a Conductor, Capacitance, Dielectric constant, Definitionof Condenser, its uses, Parallel plate Condenser, Formula for Capacitance of Parallel Plate Condenser, Dielectric, Dielectric Strength, Effect of dielectric on capacitance of capacitor. Capacitors in series and in parallel: derivation of the equivalent capacitance for the a bove cases. Energy stored in a Condenser, Effect of dielectric on Energy of Condenser, Types of capacitors, their uses."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Current Electricity",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Electric current – Flow of Electric charges in a metallic conductor, Drift velocity and mobility, Relation between electric current and drift velocity. Ohm’s Law: Statement, Ohmic and Non-Ohmic elements with examples, Conductance, Specific resistance, Variation of resistivity with temperature, Variation of Resistance with temperature, Thermistor. E.M.F. of Cell – Internal resistance and back E.M.F., Difference between EMF of a Cell and potential difference. Electrical energy, Power, definition of kWh. Kirchhoff’s laws: Statement of Kirchhoff’s voltage law, Kirchhoff’s current law, their application to Wheatstone bridge, condition for balancing, Meter bridge, Determination of resistance of a conductor using meter bridge. Principle of Potentiometer determination of internal resistance and E.M.F. of a cell using potentiometer. Series and parallel combination of cells – Derivation of equivalent EMF for the abovecases."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Thermoelectricity",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- Seebeck effect, Peltier and Thomson effects and their coefficients. Variation of themo E MF with temperature, Neutral and Inversion Temperatures. Applications of Thermo- Couple."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Electromagnetics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Oersted’s Experiment, Biot – Savart Law, Ampere’s Law, Magnetic field near a long straight wire and magnetic field at the Center of a circular coil carrying current (with derivations). Field on the axis of circular coil carrying current (expression only). Tangent Galvano meter (TG), Principle and working, Definition of Reduction Factor. Force on a moving charge in a magnetic field, Force on a current carrying conductor placed in a magnetic field, Force between two long straight parallel conductors carrying current, Definition of Ampere, Fleming’s Left Hand Rule, Current loop as a magnetic dipole, force and Torque on Current loop in an uniform magnetic field, magnetic dipole moment of a revolving electron. Principle, Construction and working of Moving Coil Galvanometer (MCG), Converting MCG into ammeter and voltmeter, comparison of MCG with TG. Electromagnetic induction, Magnetic Flux, Induced EMF, Faraday’s and Lenz’s Laws. Fleming’s Right Hand Rule, Self Inductance, Mutual Inductance, Principle of Transformer. Growth & decay of current in L-R circuit with DC source, Growth and decay of charge in R.C. Circuit connected to DC source, Equations for charge on condenser – Curretin inductor, Time constant, Definition and its significance. Alternating current (A.C), Introduction– Instantaneous, maximum and RMS value of A.C. current, Alternating Voltage applied to a pure resistor, pure inductor, pure capacitor, AC through C-R, L-R and L-C-R series circuits."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Atomic Physics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Discovery of electron, e/m of electron by Thomson’s method, Charge of the electron by Millikan’s Oil Drop Method (Principle Only). Photo Electric Effect : Definition, Laws of Photoelectric Emission, Einstein’s explanation of P hotoelectric effect, Einstein’s Photo electric equation and its experimental verification by Milikan’s method. Photo Electric Cells, working and uses. X- Rays- Production of X- Rays, Coolidge tube, X- ray spectrum, Continuous X- Ray Spectra, Characteristic X – Ray Spectra, Moseley’s Law and its importance. Compton effect (Statement only), Dual nature of matter, de Broglie’s hypothesis (concept only)."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Nuclear Physics",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Composition and size of nucleus, mass defect and binding energy and their relation (Explanation with examples). Natural radio activity – alpha, beta and gamma radiations a nd their properties, radio active decay law, half life and average life of a radio active substance, Nuclear forces – Their Properties, Artificial Trans mutation of elements, Discovery of Neutron, Radio Isotopes and their uses. Nuclear Fission, Chain Reaction, Principle and Working of a Nuclear Reactor, Nuclear Radiation Hazards, Protective shielding, Types of reactors – Breeder Reactor, Power Reactor and their uses. Nuclear Fusion, Energy of Sun and stars, Carbon – Nitrogen cycle and proton – proton cycle, Elementary particles."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Semiconductor Devices",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Introduction- Intrinsic and extrinsic semi conductors (n and p type). Junction diode, p -n junction, depletion layer and barrier potential, Forward and Reverse bias, and Current -voltage characteristics of junction diode, p –n Diode as half wave and full wave rectifier (only qualitative treatment), Zener Diode as a voltage regulator. Transistor Function of Emitter, Base and Collector, p-n-p and n-p-n Transistors, Biasing of Transistors, Current –Voltage Characteristics of Transistor in CE configuration, Transistor as common emitter amplifier (qualitative treatment), Logic Gates -OR, AND , NOT, NOR, NAND"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Communication Systems",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Elements of communication systems (block diagram only), Bandwidth of signals (Speech, TV and digital data), bandwidth of Transmission medium. Propagation of electromagnetic waves in the atmosphere, sky and space wave propagation, Modulation, Need for modulation."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

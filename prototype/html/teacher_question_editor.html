@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Akshara EDU</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/custom.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Akshara EDU</a>
+        <div class="nav-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Instructor Dashboard</a></li>
+          </ul>
+          <ul class="nav navbar-nav pull-right">
+            <li><a href="#">Logout</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="page_wrapper">
+      	<h2>Create Question</h2>
+        <hr />
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="row">
+              <h3>Question Grouping</h3>
+              <div class="col-lg-6">
+                <div class="input-group">
+                  <span class="input-group-addon">
+                    <input type="checkbox">
+                  </span>
+                  <span class='form-control'>Practice Question</span>
+                </div><!-- /input-group -->
+              </div><!-- /.col-lg-6 -->
+              <div class="col-lg-6">
+                <div class="input-group">
+                  <span class="input-group-addon">
+                    <input type="checkbox">
+                  </span>
+                  <span class='form-control'>Exam Question</span>
+                </div><!-- /input-group -->
+              </div><!-- /.col-lg-6 -->
+            </div><!-- /.row -->
+
+            <div class="row">
+              <h3>Question Difficulty</h3>
+              <div class="col-lg-4">
+                <div class="input-group">
+                  <span class="input-group-addon">
+                    <input type="radio" name='question_difficulty' />
+                  </span>
+                  <span class='form-control'>Easy</span>
+                </div><!-- /input-group -->
+              </div><!-- /.col-lg-6 -->
+              <div class="col-lg-4">
+                <div class="input-group">
+                  <span class="input-group-addon">
+                    <input type="radio" name='question_difficulty' />
+                  </span>
+                  <span class='form-control'>Medium</span>
+                </div><!-- /input-group -->
+              </div><!-- /.col-lg-6 -->
+              <div class="col-lg-4">
+                <div class="input-group">
+                  <span class="input-group-addon">
+                    <input type="radio" name='question_difficulty' />
+                  </span>
+                  <span class='form-control'>Hard</span>
+                </div><!-- /input-group -->
+              </div><!-- /.col-lg-6 -->
+            </div><!-- /.row -->
+          </div>
+          <div class="col-lg-6">
+            <h3>Tags</h3>
+
+            <br /><br />
+            <div class="input-group">
+              <input type="text" class="form-control">
+              <span class="input-group-btn">
+                <button class="btn btn-default" type="button">Add Tag</button>
+              </span>
+            </div><!-- /input-group -->
+          </div>
+        </div>
+
+        <h3>Question Information</h3>
+        <label>Question Prompt</label>
+        <textarea cols="80" id="quesetion_prompt" name="quesetion_prompt" rows="10"></textarea>
+        <hr />
+        <label>Choice A</label>
+        <textarea cols="80" id="choice_a" name="choices[0]" class="choice_editor" rows="2"></textarea><br />
+        <label>Choice B</label>
+        <textarea cols="80" id="choice_b" name="choices[1]" class="choice_editor" rows="2"></textarea><br />
+        <label>Choice C</label>
+        <textarea cols="80" id="choice_c" name="choices[2]" class="choice_editor" rows="2"></textarea><br />
+        <label>Choice D</label>
+        <textarea cols="80" id="choice_d" name="choices[3]" class="choice_editor" rows="2"></textarea><br />
+        <input type='button' name='create_question' class="btn" value="Create" /><br /><br />
+
+      </div>
+    </div><!-- /.container -->
+
+    <script src="js/jquery.js"></script>
+    <script src="ckeditor/ckeditor.js"></script>
+    <script src="ckeditor/config.js"></script>
+	<script src="ckeditor/adapters/jquery.js"></script>	
+    <script src="js/d3.js"></script>
+    <script src="js/holder.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+
+	    CKEDITOR.disableAutoInline = true;
+
+		$( document ).ready( function() {
+			$( '#quesetion_prompt' ).ckeditor({height:"300px", extraPlugins: 'eqneditor'});
+      $( '.choice_editor' ).ckeditor(
+        {
+          height:"75px", 
+          extraPlugins: 'eqneditor',
+          toolbar :
+          [
+            { name: 'basicstyles', items : [ 'Bold','Italic','Strike','-','RemoveFormat' ] },
+            { name: 'paragraph', items : [ 'NumberedList','BulletedList' ] },
+            { name: 'tools', items : [ 'Maximize','-','About' ] },
+            { name: 'insert', items : [ 'Image','Table','HorizontalRule','SpecialChar','PageBreak'
+                 ,'Iframe','EqnEditor' ] },
+          ]
+        });
+		});
+
+    </script>
+  </body>
+</html>

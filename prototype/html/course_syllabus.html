@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Course Syllabus</title>
+<!-- Bootstrap -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<style type="text/css">
+.row.header {
+	font-weight: bold;
+}
+
+.center {
+	text-align: center;
+}
+.padtop
+{
+margin-top: 5px;
+}
+</style>
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+<link href="css/bootstrap.css" rel="stylesheet">
+
+    <link href="css/custom.css" rel="stylesheet">
+</head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">akshara</a>
+        <div class="nav-collapse collapse">
+          <ul class="nav navbar-nav pull-right">
+            <li><a href="#">Logout</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+   </div>
+ 
+	<div id="container" class="container">
+	</div>
+<script>
+(function() {
+ $.getJSON('data/maths_syllabus_json.txt', function(data) {
+var topics = data.syllabus.subjects.subject.topics;
+$.each( topics.topic, function( i, topic ) {
+		var topicName = topic.name;
+		$('#container').append('<table id="topic'+i+'" class="table table-striped padtop"><tr ><th style="width:70%">' + topicName + '</th><th class="center" style="width:10%">'+
+		'Number of Attempts</th><th class="center" style="width:10%">Score</th><th class="center" style="width:10%">Progress</th></tr>');
+             
+		var subtopics = topic.subtopics;
+      $.each( subtopics.subtopic, function( j, subtopic ) {
+        $('#topic'+i).append('<tr><td style="width:70%">'+subtopic.name+'</td><td class="center" style="width:10%">'+
+        '1</td><td class="center" style="width:10%">78</td><td class="center" style="width:10%">Proficient</td></tr>');
+    });
+      //$('#container').append('</table>');
+    });
+}); 
+})();
+</script>
+</body>
+</html>>Proficient</td></tr>');
+    });
+      //$('#container').append('</table>');
+    });
+}); 
+})();
+</script>
+</body>
+</html>

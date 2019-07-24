@@ -1,0 +1,166 @@
+{
+  "syllabus": {
+    "subjects": {
+      "subject": {
+        "name": "Mathematics",
+        "topics": {
+          "topic": [
+            {
+              "name": "Algebra",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Functions – Types of functions – Algebra of real valued functions"
+                  },
+                  {
+                    "name": "Mathematical induction and app lications"
+                  },
+                  {
+                    "name": "Permutations and Combinations – linear and circular permutations - combinations"
+                  },
+                  {
+                    "name": "Binomial theorem – for a positive integral index – for any rational index – applications – Binomial Coefficients"
+                  },
+                  {
+                    "name": "Partial fractions"
+                  },
+                  {
+                    "name": "Exponential and logarithmic series"
+                  },
+                  {
+                    "name": "Quadratic expressions, equations and inequations in one variable"
+                  },
+                  {
+                    "name": "Mathematical induction and app lications"
+                  },
+                  {
+                    "name": "Theory of equations – Relations between the roots and Coefficients in any equation – Transformation of equations – reciprocal equations"
+                  },
+                  {
+                    "name": "Matrices and determinants – Types of matrices – Algebra of matrices – Properties of determinants – simultaneous linear equations in two and three variables – Consistency and inconsistency of simultaneous equations"
+                  },
+                  {
+                    "name": "Complex numbers and their properties – De Moivre’s theorem – Applications – Expansions of trigonometric functions"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Trigonometry",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Trigonometric functions – Graphs – periodicity"
+                  },
+                  {
+                    "name": "Trigonometric ratios of compound angles, multiple and sub-multiple angles, Transformations – sum and product rules "
+                  },
+                  {
+                    "name": "Trigonometric equations"
+                  },
+                  {
+                    "name": "Inverse trigonometric functions"
+                  },
+                  {
+                    "name": "Hyperbolic and inverse hyperbolic functions"
+                  },
+                  {
+                    "name": "Properties of Triangles"
+                  },
+                  {
+                    "name": "Heights and distances (in two-dimensional plane)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Vector Algebra",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Algebra of vectors – angle between two non-zero vectors – linear combination of vectors – vector equation of line and plane"
+                  },
+                  {
+                    "name": "Scalar and vector product of two vectors and their applications"
+                  },
+                  {
+                    "name": "Scalar and vector triple products, Scalar and vector products of four vectors"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Probability",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Random experiments – Sample space – events – probability of an event – addition and multiplication theorems of probability – Conditional event and conditional probability - Baye’s theorem"
+                  },
+                  {
+                    "name": "Random variables – Mean and variance of a random variable – Binomial and Poisson distributions"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Coorindate Geometry",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Locus, Translation of axes, rotation of axes"
+                  },
+                  {
+                    "name": "Straight line"
+                  },
+                  {
+                    "name": "Pair of straight lines"
+                  },
+                  {
+                    "name": "Circles"
+                  },
+                  {
+                    "name": "System of circles"
+                  },
+                  {
+                    "name": "Conics – Parabola – Ellipse – Hyperbola – Equations of tangent, normal, chord of contact and polar at any point of these conics, asymptotes of hyperbola."
+                  },
+                  {
+                    "name": "Polar Coordinates"
+                  },
+                  {
+                    "name": "Coordinates in three dimensions, distance between two points in the space, section formula, centroid of a triangle and tetrahedron."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Calculus",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Functions – limits – Continuity"
+                  },
+                  {
+                    "name": "Differentiation – Methods of differentiation"
+                  },
+                  {
+                    "name": "Successive differentiation – Leibnitz’s theorem and its applications"
+                  },
+                  {
+                    "name": "Partial differentiation including Euler’s theorem on homogeneous functions"
+                  },
+                  {
+                    "name": "Integration – methods of integration"
+                  },
+                  {
+                    "name": "Definite integrals and their applications to areas – reduction formulae"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

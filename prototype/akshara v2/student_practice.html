@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Akshara EDU</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/stacked_bar.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">Akshara EDU</a>
+        <div class="nav-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Student Dashboard</a></li>
+          </ul>
+          <ul class="nav navbar-nav pull-right">
+            <li><a href="#">Logout</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="page_wrapper">
+        <div class="row page-header">
+          <div class="row">
+            <div class="col-lg-3 col-sm-3">
+              <h2><small>Practive Exam<br />Topic: Engineering<br />Sub-Topic: Math</small></h2>
+            </div>
+            <div class="col-lg-6 col-sm-6">
+              <h1>Akshara EDU</h1>
+            </div>
+            <div class="col-lg-3 col-sm-3"> </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-6 col-sm-6">
+              <h2><small><strong>Time in this question: </strong>30 seconds</h2>
+            </div>
+            <div class="col-lg-6 col-sm-6" style="text-align:right;">
+              <h2><small><strong>Time this session: </strong>1 minute 30 seconds</small></h2>
+            </div>
+          </div>
+        </div>
+
+        <!-- BEGIN Question -->
+        <div id="question_container">
+          <div class="question row">
+            <div class='question'>
+              If the pair of lines given by <span class="formula">(x^{2}+y^{2})cos^{2}\theta=(xcos\theta + ysin\theta)^{2}}</span> are perpendicular to each other, then <span class="formula">\theta =</span>
+            </div>
+            <br />
+            <div class="panel panel-success remediation">
+              <div class="panel-heading">Correct!</div>
+              <div class="panel-body">
+                Good Job! This is an explanation about why your answer was correct.
+              </div>
+            </div>
+            <ul class="choices">
+              <li class="choice">
+                <label class="radio">
+                  <input type='radio' name='questions[1]' value='A' />
+                  <span class="formula">0</span>
+                </label>
+              </li>
+              <li class="choice">
+                <label class="radio">
+                  <input type='radio' name='questions[1]' value='B' />
+                  <span class="formula">\frac{\pi}{4}</span>
+                </label>
+              </li>
+              <li class="choice">
+                <label class="radio">
+                  <input type='radio' name='questions[1]' value='C' />
+                  <span class="formula">\frac{\pi}{3}</span>
+                </label>
+              </li>
+              <li class="choice">
+                <label class="radio">
+                  <input type='radio' name='questions[1]' value='D' />
+                  <span class="formula">3\frac{\pi}{4}</span>
+                </label>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+      <hr />
+      <a href='#' id="submit_button" class='btn btn-default'>Submit</a>
+      <a href='course_syllabus.html' id="finish_practice" class='btn btn-primary'>Finish Practice</a>
+      <a href='#' id="next_question" class='btn btn-success'>Next</a>
+      <hr />
+    </div><!-- /.container -->
+
+    <script src="js/jquery.js"></script>
+    <script src="js/d3.js"></script>
+    <script src="js/holder.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/formula.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        updateFormulas();
+
+        $("#finish_practice").hide();
+        $("#next_question").hide();
+        $(".remediation").hide();
+
+        $("#submit_button").click(function(){
+          $("#submit_button").fadeOut(function(){
+
+            $(".remediation").fadeIn();
+            $("#finish_practice").fadeIn();
+            $("#next_question").fadeIn();
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
+
+
+
+
+

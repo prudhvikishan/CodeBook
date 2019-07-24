@@ -1,0 +1,233 @@
+{
+  "syllabus": {
+    "subjects": {
+      "subject": {
+        "name": "Chemistry",
+        "topics": {
+          "topic": [
+            {
+              "name": "ATOMIC STRUCTURE",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Characteristics of electron, proton and neutron. Rutherford model of an atom. Nature of electromagnetic radiation. Planck’s quantum theory. Explanation of photo electric effect. Dual behavior of electromagnetic radiation. Features of atomic spectra – Emission and absorption spectra. Characteristics of hydrogen spectrum. Bohr’s theory of the structure of atom – Postulates. Bohr’s theory of hydrogen atom, Energy of anelectron. Bohr’s explanation of spectral lines. Failure of Bohr’s theory. Wave-particle nature of electron. De Broglie’s hypothesis, Heisenberg’suncertainty principle. Important features of the quantum mechanical model of an atom – Meaning and significance of wave function. Quantum numbers, concept of orbitals, definition of atomic orbital in terms of quantum numbers - shapes of s, p and d orbitals, Aufbau principle, Pauli’s exclusion principle and Hund’s rule of maximum multiplicity. Electronic configuration of atoms. Explanation of stability of half filled and completely filled orbitals."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Concept of grouping the elements in accordance totheir properties – Mendeleef’s Periodic Table. Periodic law – Mendeleef’s classification of elements. Significance of atomic number and electronic configuration as the basis for periodic classification. Classification of elements into s, p, d, f blocks and their main characteristics. Periodic trends in physical and chemical properties of elements: Atomic radii, Ionic radii, Inert gas radii, Ionization energy, Electron gain energy, Electronegativity and Valency. Variation of oxidation states, Electropositivity – Metallic and Non-metallic nature, Nature of Oxides, Diagonal relationship. Variation of atomic radii in inner transition elements."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "CHEMICAL BONDING AND MOLECULAR STRUCTURE",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Kossel -Lewis approach to chemical bonding. Factors favorable for the formation of ionic bond, energy changes in ionic bond formation. Crystal lattice energy - calculation of lattice energy – Born - Haber cycle. Crystal structure of sodium chloride and Caesium chloride, Coordination number. Properties of ionic compounds. Covalent bond - VS EPR theory – Lewis representation of covalent compounds, Formal charge, geometry of simp le molecules. The valence bond approach for the formation of covalent bonds. Directional properties of covalent bond. Properties of covalent bond. Hybridization - different types of hybridization involving s, p and d orbitals. Shapes of simp le covalent molecules. Definition of coordinate covalent bond with examples. Molecular orbital theory of homonuclear diatomic molecules. Symmetry and energy of sigma and pi bonding and antibonding molecular orbitals. Molecular orbital energy diagram of H2, N2and O2. Concept of hydrogen bond and its types with examples. Effect of hydrogen bonding onproperties of compounds."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "STOICHIOMETRY",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Laws of chemical combination – Principles and examples. Molar mass, concept of equivalent weight with examples. Percentage composition of compounds and calculation of empirical and molecular formulae of compounds. Chemical r eactions and Stoichiometric equations. Oxidation number concept. Balancing of redox reactions by ion electron method and oxidation number method. Types of redox reactions. Applications of redox reactions in titrimetric quantitative analysis. Redox reactions and electrode processes."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "STATES OF MATTER: GASES AND LIQUIDS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Graham’s law of diffusion, Dalton’s law of partial pressures, Avogadro’s law. Ideal behavior, empirical derivation of gas equation, ideal gas equation. Kinetic molecular theory of gases. Kinetic gas equation (No derivation) - deduction of gas laws. Distribution of molecular velocities and types of molecular velocities – Average, Root Mean Square and Most Probable Velocity. Behavior of real gases, deviation from ideal behaviour, compressibility factor versus pressure diagrams of real gases. Conditions for liquification of gases, critical temperature. Liquid state – Properties of liquids in terms of intermolecular attractions. Vapour pressure, viscosity and surface tension (qualitative idea only, no mathematical derivation)"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "SOLUTIONS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Classification of solutions, molarity, normality, molality and mole fraction. Dilute solutions, vapor pressure, Raoult’s law, Limitations of Raoult’s law. Colligative properties – (i) Relative lowering of vapor pressure (ii) Elevation of B.P (iii) Depression in freezing point and their relation to molar mass. Osmosis and osmotic pressure - theory of dilute solutions. Determination of molar mass using colligative properties: Ostwald’s dynamic method, Cottrell’s method, Rast’s method and Berkeley Hartley’s method. Abnormal molecular mass."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "ELECTRO CHEMISTRY",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Conductance in electrolytic solutions. Specific, Equivalent and Molar conductance - variation of conductance with concentration, Kohlrausch’s law and its application to calculation of equivalent conductance of weak e lectrolytes. Electrolytes and non-electrolytes, redox reactions. Electrolysis. Some typical examples of electrolysis viz; Fused Sodium hydroxide, Fused sodium chloride, Brine solution, Fused Magnesium chloride. Faraday’s laws of electrolysis and applications. Galvanic and voltaic cells. Representation and notation of electrochemical cells with and without salt bridge. Standard hydrogen electrode, electrode potentials, electrochemical series. EMF of the cell, Nernst equation and its application to calculate EMF of electrochemical cells. Primary cell - dry cell / Lechlanche cell. Secondary cells - Fuel cells: Hydrogen - Oxygen fuel cell and Hydrocarbon - Oxygen fuel cell. Corrosion: mechanism, factors to promote corrosion and prevention of corrosion, passivity. Lead accumulator. "
+                  }
+                ]
+              }
+            },
+            {
+              "name": "SOLID STATE",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Classification of solids based on different binding forces as molecular, ionic, covalent, and metallic solids. Elementary treatment of metallic bond. Metallic solids, amorphous and crys talline solids. Unit cell in two dimensional and three dimensional lattices. Seven crystal systems, Bravais lattices. Bragg’s equation, X-ray study of crystal structure, Bragg’s method. Calculation of density of unit cell, packing in solids, voids, number of atoms per cubic unit cell. Point defects - Schot tky and Frenkel defects. Electrical and magnetic pr operties."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "CHEMICAL KINETICS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Concepts of reaction rate, factors affecting reaction rates. Rate law, Units of rate constant. Order and molecularity. Methods of determination of order of a reaction. Integrated rate equations and half lives for zero and first order reaction Collision theory of reaction rates (elementary ideas). Concept of activation energy."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "THERMODYNAMICS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Concept of system, types of systems, surroundings, work, heat, energy, extensive and intensive properties, state functions. First law of thermodynamics - Internal energy and Enthalpy. Heat capacity and Specific heat, Exothermic and Endothermic reactions, measurement of ? E and ? H, Enthalpy of bond dissociation, combustion, neut ralization, formation, atomization, sublimation, phase transition, ionization and dilution. Thermochemical equations. Hess’s law of constant heat summation. Driving force for a spontaneous process. Thermodynamic representation of criteria of spontaneity in terms of entropy, entropy as a state function. Gibbs free energy, Gibbs free energy change for spontaneous, non spontaneous and equilibrium processes. "
+                  }
+                ]
+              }
+            },
+            {
+              "name": "SURFACE CHEMISTRY",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Adsorption: Physical and chemical adsorption, adsorption of gases on solids, factors affecting it - pressure (Langmuir and Freundlich Isotherms) and temperature. Catalysis - types of catalysis, autocatalysis Colloidal state:- colloidal solutions, classification of colloidal solutions, protective colloids and Gold number, Properties of colloids - Tyndall effect, Brownian movement. Coagulation. Emulsions, classification of emulsions, micelles, cleansing action of soap."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "HYDROGEN AND ITS COMPOUNDS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Position of hydrogen in periodic table. Occurrence, isotopes of hydrogen. Hydrogen - Preparation, properties and uses including as a fuel. Reactions of hydrogen leading to ionic, molecular and non - stoichiometric hydrides. Physical and Chemical properties of water and heavy water. Hardness of wa ter and its removal Hydrogen peroxide – methods of preparation, physical and chemical properties - oxidation, reduction, decomposition, disproportionation and addition reactions. Detection, structure and uses of Hydrogen Peroxide."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "ALKALI AND ALKALINE EARTH METALS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "General introduction, electronic configuration, occurrence, Anomalous properties of the first element in each group. Diagonal relationship. Trends in properties like ionization enthalpy, atomic and ionicradii, reactivity with oxygen, hydrogen, halogens and water, uses of alkali and alkaline earth metals.Preparation, properties and uses of sodium hydroxide, salts of oxo acids, sodium carbonate, sodium hydrogen carbonate and sodium chloride. Preparationand uses of Calcium oxide, Calcium carbonate and Calcium sulphate. Biological importance of Na, K, Mg and Ca."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "p-BLOCK ELEMENTS: GROUP 13 ELEMENTS: (IIIA GROUP ELEMENTS) ",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "General introduction, electronic configuration, oc currence. Variation of properties and oxidation states, trends in chemical reactivity. Anomalous properties of first element of the group. Boron- Physical and chemical properties and uses of boron. Borax, boric acid and boron hydrides. Preparation, structure and properties of diborane. Aluminum: uses, reactions with acids and alkalis. Potash alum."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "p-BLOCK ELEMENTS: GROUP 14 ELEMENTS: (IVA GROUP ELEMENTS)",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "General introduction, electronic configuration, occurrence. Variation of properties and oxidation states, trends in chemical reactivity. Anomalous behavior of first element. Carbon - catenation, allotropic forms, physical and chemical properties and uses. Similarities between carbon and silicon, uses of oxides of carbon. Important compounds of Silicon - Silicon dioxide, uses of Silicon tetrachloride, silicones, silicates and zeolites (Elementary Ideas). Manufacture and uses of Producer gas and Water gas."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "p- BLOCK ELEMENTS: GROUP 15 ELEMENTS (VA GROUP ELEMENTS)",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Occurrence - physical states of nitrogen and phosphorous, allotropy, catenation, electronic configuration, oxidation states. General characteristics and structure of hydrides. General characteristics of oxides and halides. Oxoacids of nitrogen and phosphorous. Preparation and uses of nitric acid and Ammonia. Super phosphate of lime."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "p- BLOCK ELEMENTS: GROUP 16 ELEMENTS (VIA GROUP ELEMENTS)",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Occurrence, electronic configuration, oxidation states, physical states of oxygen and sulphur, their structure and allotropy. General characteristics of hydrides, oxides and halides. Structural aspects of oxy acids of chalcogens. Preparation, properties and uses of ozone and sodium thiosulphate. Industrial process for manufacture of sulphuric acid."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "P- BLOCK ELEMENTS: GROUP 17 ELEMENTS (VIIA GROUP ELEMENTS)",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Occurrence, electronic configuration and oxidation states. Physical states of halogens. Ionization Potential, Electro negativity, Electron affinity, bond energies, chemical reactivity, oxidizing power of fluorine andchlorine. Structural aspects of oxy acids of chlorine. Preparation, properties and uses of fluorine, chlorine and bleaching powder. Structures of Inter halogen compounds."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "TRANSITION ELEMENTS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "General introduction, electronic configuration, occurrence and characteristics of transition metals. General trends in properties of first row transition elements - metallic character, ionization energy, variable oxidation states, atomic and ionic radii, color, catalytic property, magnetic property, interstitial compounds and alloy formation. Lanthanides: Electronic configuration, variable oxidation states, chemical reactivity andlanthanide contraction. Coordination compounds: Introduction, ligands, coordination number, Werner’s theory of coordination compounds, shapes of coordination compounds - Valence bond theory, IUPAC nomenclature of mono nuclear coordination compounds, bonding, isomerism, EAN rule, importance of coordination compounds in qualitative analysis, extraction of metals and biological systems (chromo proteins, haemoglobin, chlorophyll: structures only)."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "ENVIRONMENTAL CHEMISTRY",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Definition of terms, types of Pollution, Air, Water and Soil pollution. Oxides of carbon, carbon monoxide, oxides of nitrogen and sulphur, chloro fluoro carbons. Chemical reactions in atmosphere, smogs, major atmosp heric pollutants, acid rain. Ozone and its reactions, effects of depletion of ozone layer. Greenhouse effect and global warming. Pollution due to industrial wastes. Green chemistry as an alternative tool for reducing pollution with two examples."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "HYDROCARBONS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Classification of hydrocarbons. Alkanes - Nomenclature, isomerism. Methods of preparation of ethane. Conformations of ethane. Physical properties, chemical reactions in cluding free radical mechanism of halogenation, Com bustion and Pyrolysis of ethane."
+                  }
+                ]
+              }
+            },
+            {
+              "name": "ALKYNES & AROMATIC HYDROCARBONS",
+              "subtopics": {
+                "subtopic": [
+                  {
+                    "name": "Nomenclature, structure of triple bond. Acetylene - Methods of preparation, Physical properties and chemical reactions: acidic character of acetylene, addition reaction of - hydrogen, halogens, hydrogen halides and water.Aromatic hydrocarbons: Introduction, IUPAC nomenclature; Benzene: resonance and aromaticity, Chemical properties: Mechanism of electrophilic substitution - Nitration, Sulphonation, Halogenation, Friedel Craft’s alkylation and Acylation. Directive influence of functional group in mono substituted benzene. Carcinogenicity and toxicity of aromatic compounds."
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

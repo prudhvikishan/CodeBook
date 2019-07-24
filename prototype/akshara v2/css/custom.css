@@ -1,0 +1,33 @@
+body {
+  padding-top: 50px;
+}
+
+.student_header {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.page-header {
+	margin-top:20px;
+}
+
+h1 { margin-top:10px; text-align:center; }
+
+#graph { text-align: center; }
+
+
+.question ul { list-style:none; }
+
+.center {
+  text-align: center;
+}
+
+.badge-activity{
+	color: #0c0874;
+}
+.points-activity{
+	color: #FF5300;
+}
+.exam-activity{
+	color: #00AB6F;
+}
